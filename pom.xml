@@ -204,10 +204,10 @@
 
     </dependencies>
     <properties>
-        <automation.framework.version>4.3.1-SNAPSHOT</automation.framework.version>
+        <automation.framework.version>4.3.1</automation.framework.version>
         <stub.version>4.2.0</stub.version>
         <synapse.core.version>2.1.1-wso2v7</synapse.core.version>
-        <common.version>4.3.0-SNAPSHOT</common.version>
+        <common.version>4.3.0</common.version>
         <proxyadmin.stub.version>4.2.1</proxyadmin.stub.version>
         <test.framework.version>${carbon.platform.version}</test.framework.version>
         <carbon.platform.version>4.2.0</carbon.platform.version>
